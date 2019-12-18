@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 10px;
+}
+.largeBox1 {
+    background-color: blue;
+    border: solid 5px;
+    box-sizing: border-box;
+    padding: 8px;
+    
+    width: 100%;
+    height: 25vh;
+}
+
+.smallBox1-1 {
+    background-color: purple;
+    height: 20vh;
+    width: 2%;
+    display: inline-block;
+
+}
+.largeBox2 {
+    width: 100%;
+    height: 30vh;
+    border: 5px dotted black;
+    margin-top: 20px;
+    box-sizing: border-box;
+    padding: 50px;
+}
+.smallBox2-1 {
+    background-color: bisque;
+    height: 100%;
+    width: 100%;
+
+}
