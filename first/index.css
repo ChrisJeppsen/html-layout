@@ -1,0 +1,31 @@
+*{
+
+     margin: 0;
+}
+.middle-section{
+    height: 100vh;
+    width: 100%;
+    background-color: lightgray;
+}
+.content-middle{
+    height: 70vh;
+    width: 75%;
+    background-color: white;
+    margin: 0 auto;
+}
+.header {
+    width: 100%;
+    height: 20vh;
+    background-color: gray;
+}
+ 
+.footer { 
+    width: 75%;
+    height:10vh;
+    background-color: black;
+    margin: 0 auto;
+     clear: both; 
+}
+     
+
+ 
