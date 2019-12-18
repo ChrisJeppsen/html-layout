@@ -1,0 +1,70 @@
+ body {
+     margin: 0;
+ }
+.header{
+    margin: 0;
+    width: 100%;
+    height: 14vh;
+    background-color: lightgray;
+    
+}
+.bluebox{
+    height: 10vh;
+    width: 5%;
+    margin: 20px;
+    
+    background-color: lightskyblue;
+     
+}
+ 
+.num1 {
+    margin: 0;
+    width: 100%;
+    height: 22vh;
+    padding: 45px;
+    padding-left: 100px;
+    word-wrap: initial;
+     
+    background-color:white;
+    
+
+}
+.num2 {
+    margin:0;
+    height: 14vh;
+    width: auto;
+
+    background-color: blue;
+
+}
+.num3 {
+    margin: 0;
+    height: 14vh;
+    width: auto;
+
+    background-color: lightgreen;
+}
+.num4 {
+    margin: 0;
+    height: 14vh;
+    width: auto;
+
+    background-color: green;
+
+}
+.num5 {
+    margin:0;
+    height: 8vh;
+    width: auto;
+
+    background-color: yellow;
+}
+.paragraph {
+    font-size: 25px;
+    text-align: left;
+    max-width: 75%;
+    line-height: 40px;
+
+}
+
+ 
